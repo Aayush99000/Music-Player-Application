@@ -1,0 +1,1 @@
+This project showcases a fully responsive Music Player App design with an engaging color theme. Utilizing CSS Flexbox and Media Queries, the design adapts seamlessly to various screen sizes, ensuring a consistent user experience across devices. CSS transitions are employed to introduce captivating animation effects, enhancing the overall aesthetics.
